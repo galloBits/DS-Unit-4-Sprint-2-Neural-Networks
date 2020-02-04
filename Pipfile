@@ -13,6 +13,8 @@ ipykernel = "*"
 keras = "*"
 tensorflow = "*"
 wandb = "*"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 
