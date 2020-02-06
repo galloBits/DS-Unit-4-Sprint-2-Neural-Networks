@@ -17,6 +17,8 @@ torch = "*"
 torchvision = "*"
 papermill = "*"
 jupyterlab = "*"
+sacred = "*"
+pymongo = "*"
 
 [dev-packages]
 
