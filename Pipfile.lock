@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "222f0122a4b68e5a5740d5a36e7191ba89e6e144704042ba9905e1b7399bfc20"
+            "sha256": "65d5e140574815197be60312b2775006df000c7ffc873d828da2230d78137811"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -327,6 +327,13 @@
             ],
             "version": "==0.14.1"
         },
+        "json5": {
+            "hashes": [
+                "sha256:62a7a36f5f9806108d39bfc59d4458e2a083762a2fc15fd3c7828c72502fd702",
+                "sha256:f2dd81b3de344143144532804171ff8e7da93cd57af6b56d4d4afa859f8c77ff"
+            ],
+            "version": "==0.9.0"
+        },
         "jsonschema": {
             "hashes": [
                 "sha256:4e5b3cf8216f577bee9ce139cbe72eca3ea4f292ec60928ff24758ce626cd163",
@@ -347,6 +354,21 @@
                 "sha256:a183e0ec2e8f6adddf62b0a3fc6a2237e3e0056d381e536d3e7c7ecc3067e244"
             ],
             "version": "==4.6.1"
+        },
+        "jupyterlab": {
+            "hashes": [
+                "sha256:42134b13fb0c410a9f55e8492a31ba5a1a346430a22690a512b8307764b68355",
+                "sha256:56c108e28934ac463754b7656441c0d92e76a81ad5dad446fe1071c6fd86245c"
+            ],
+            "index": "pypi",
+            "version": "==1.2.6"
+        },
+        "jupyterlab-server": {
+            "hashes": [
+                "sha256:d0977527bfce6f47c782cb6bf79d2c949ebe3f22ac695fa000b730c671445dad",
+                "sha256:d9c3bcf097f7ad8d8fd2f8d0c1e8a1b833671c02808e5f807088975495364447"
+            ],
+            "version": "==1.0.6"
         },
         "keras": {
             "hashes": [
@@ -498,6 +520,13 @@
             ],
             "version": "==5.0.4"
         },
+        "notebook": {
+            "hashes": [
+                "sha256:3edc616c684214292994a3af05eaea4cc043f6b4247d830f3a2f209fa7639a80",
+                "sha256:47a9092975c9e7965ada00b9a20f0cf637d001db60d241d479f53c0be117ad48"
+            ],
+            "version": "==6.0.3"
+        },
         "numpy": {
             "hashes": [
                 "sha256:1786a08236f2c92ae0e70423c45e1e62788ed33028f94ca99c4df03f5be6b3c6",
@@ -633,6 +662,12 @@
             ],
             "version": "==7.0.0"
         },
+        "prometheus-client": {
+            "hashes": [
+                "sha256:71cd24a2b3eb335cb800c7159f423df1bd4dcd5171b234be15e3f31ec9f622da"
+            ],
+            "version": "==0.7.1"
+        },
         "promise": {
             "hashes": [
                 "sha256:dfd18337c523ba4b6a58801c164c1904a9d4d1b1747c7d5dbf45b693a49d93d0"
@@ -691,6 +726,7 @@
                 "sha256:923f299cc5ad920c68f2bc0bc98b75b9f838b93b599941a6b63ddbc2476394c0",
                 "sha256:d7cc528d76e76342423ca640335bd3633420dc1366f258cb31d05e865ef5ca1f"
             ],
+            "markers": "os_name != 'nt'",
             "version": "==0.6.0"
         },
         "pyasn1": {
@@ -887,6 +923,13 @@
             "index": "pypi",
             "version": "==1.4.1"
         },
+        "send2trash": {
+            "hashes": [
+                "sha256:60001cc07d707fe247c94f74ca6ac0d3255aabcb930529690897ca2a39db28b2",
+                "sha256:f1691922577b6fa12821234aeb57599d887c4900b9ca537948d2dac34aea888b"
+            ],
+            "version": "==1.5.0"
+        },
         "sentry-sdk": {
             "hashes": [
                 "sha256:b06dd27391fd11fb32f84fe054e6a64736c469514a718a99fb5ce1dff95d6b28",
@@ -970,6 +1013,13 @@
                 "sha256:1d6d69ce66211143803fbc56652b41d73b4a400a2891d7bf7a1cdf4c02de613b"
             ],
             "version": "==1.1.0"
+        },
+        "terminado": {
+            "hashes": [
+                "sha256:4804a774f802306a7d9af7322193c5390f1da0abb429e082a10ef1d46e6fb2c2",
+                "sha256:a43dcb3e353bc680dd0783b1d9c3fc28d529f190bc54ba9a229f72fe6e7a54d7"
+            ],
+            "version": "==0.8.3"
         },
         "testpath": {
             "hashes": [

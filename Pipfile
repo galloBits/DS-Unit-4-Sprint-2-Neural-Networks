@@ -16,6 +16,7 @@ wandb = "*"
 torch = "*"
 torchvision = "*"
 papermill = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
