@@ -15,6 +15,7 @@ tensorflow = "*"
 wandb = "*"
 torch = "*"
 torchvision = "*"
+papermill = "*"
 
 [dev-packages]
 
